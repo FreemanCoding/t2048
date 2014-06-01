@@ -21,7 +21,7 @@ h1.title {
 	margin: 0;
 	display: block;
 	float: left;
-	padding-right: 0px;
+	padding-right: 58px;
 }
 
 @-webkit-keyframes move-up {
@@ -600,7 +600,10 @@ hr {
   margin-bottom: 0; }
 
 .game-explanation {
-  margin-top: 50px; }
+	margin-top: 50px;
+	margin-right: 0px;
+	padding-right: 0px;
+}
 
 @media screen and (max-width: 520px) {
   html, body {
